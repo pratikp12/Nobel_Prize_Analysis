@@ -15,3 +15,19 @@ Kindly refer my python notebook for all the steps of This project
 ## Requirements
 * Python 3.6
 * Libraries : Pandas,OpenCV,Numpy
+
+<a name="output"></a>
+## Output
+Let's See some output 
+![](screenshot/pic1.PNG)
+
+![]((screenshot/pic2.png)
+
+![]((screenshot/pic3.png)
+
+some interesting output
+
+
+![]((screenshot/pic4.png)
+
+![]((screenshot/pic5.png)
