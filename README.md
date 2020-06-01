@@ -21,13 +21,13 @@ Kindly refer my python notebook for all the steps of This project
 Let's See some output 
 ![](screenshot/pic1.PNG)
 
-![]((screenshot/pic2.png)
+![](screenshot/pic2.PNG)
 
-![]((screenshot/pic3.png)
+![](screenshot/pic3.PNG)
 
 some interesting output
 
 
-![]((screenshot/pic4.png)
+![](screenshot/pic4.PNG)
 
-![]((screenshot/pic5.png)
+![](screenshot/pic5.PNG)
