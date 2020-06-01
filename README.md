@@ -8,8 +8,9 @@
 
 <a name="description"></a>
 ## Description
-Dog breed classifer is Udacity Data Science Nanodegree Project which invloves Opencv,tensorflow. Which bases on Convolutional Neural Networks.It's Great learning experience with Udacity.This app identify dog breed of input images and if input is human face model suggest dog breed.
-Kindly refer my python notebook for all the steps of This project
+The Nobel Prize is perhaps the world's most well known scientific award. Except for the honor, prestige and substantial prize money the recipient also gets a gold medal showing Alfred Nobel (1833 - 1896) who established the prize. Every year it's given to scientists and scholars in the categories chemistry, literature, physics, physiology or medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the Prize was very Eurocentric and male-focused, but nowadays it's not biased in any way whatsoever. Surely. Right?
+
+Well, we're going to find out! The Nobel Foundation has made a dataset available of all prize winners from the start of the prize, in 1901, to 2016. Let's load it in and take a look.
 
 <a name="requirements"></a>
 ## Requirements
@@ -19,15 +20,13 @@ Kindly refer my python notebook for all the steps of This project
 <a name="output"></a>
 ## Output
 Let's See some output 
+# USA Nobel Prize Winners
 ![](screenshot/pic1.PNG)
 
+# Female Winners according to category
 ![](screenshot/pic2.PNG)
 
+# The first woman to win the Nobel Prize
 ![](screenshot/pic3.PNG)
 
-some interesting output
 
-
-![](screenshot/pic4.PNG)
-
-![](screenshot/pic5.PNG)
